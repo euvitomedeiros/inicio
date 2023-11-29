@@ -1,0 +1,14 @@
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\medidaCombustivel\bin\Debug\net6.0\medidaCombustivel.exe
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\medidaCombustivel\bin\Debug\net6.0\medidaCombustivel.deps.json
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\medidaCombustivel\bin\Debug\net6.0\medidaCombustivel.runtimeconfig.json
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\medidaCombustivel\bin\Debug\net6.0\medidaCombustivel.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\medidaCombustivel\bin\Debug\net6.0\medidaCombustivel.pdb
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\medidaCombustivel\obj\Debug\net6.0\medidaCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\medidaCombustivel\obj\Debug\net6.0\medidaCombustivel.AssemblyInfoInputs.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\medidaCombustivel\obj\Debug\net6.0\medidaCombustivel.AssemblyInfo.cs
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\medidaCombustivel\obj\Debug\net6.0\medidaCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\medidaCombustivel\obj\Debug\net6.0\medidaCombustivel.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\medidaCombustivel\obj\Debug\net6.0\refint\medidaCombustivel.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\medidaCombustivel\obj\Debug\net6.0\medidaCombustivel.pdb
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\medidaCombustivel\obj\Debug\net6.0\medidaCombustivel.genruntimeconfig.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\medidaCombustivel\obj\Debug\net6.0\ref\medidaCombustivel.dll

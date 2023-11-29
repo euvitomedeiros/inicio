@@ -1,0 +1,14 @@
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\MaiorParaMenor\obj\Debug\net8.0\MaiorParaMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\MaiorParaMenor\obj\Debug\net8.0\MaiorParaMenor.AssemblyInfoInputs.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\MaiorParaMenor\obj\Debug\net8.0\MaiorParaMenor.AssemblyInfo.cs
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\MaiorParaMenor\obj\Debug\net8.0\MaiorParaMenor.csproj.CoreCompileInputs.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\MaiorParaMenor\bin\Debug\net8.0\MaiorParaMenor.exe
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\MaiorParaMenor\bin\Debug\net8.0\MaiorParaMenor.deps.json
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\MaiorParaMenor\bin\Debug\net8.0\MaiorParaMenor.runtimeconfig.json
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\MaiorParaMenor\bin\Debug\net8.0\MaiorParaMenor.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\MaiorParaMenor\bin\Debug\net8.0\MaiorParaMenor.pdb
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\MaiorParaMenor\obj\Debug\net8.0\MaiorParaMenor.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\MaiorParaMenor\obj\Debug\net8.0\refint\MaiorParaMenor.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\MaiorParaMenor\obj\Debug\net8.0\MaiorParaMenor.pdb
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\MaiorParaMenor\obj\Debug\net8.0\MaiorParaMenor.genruntimeconfig.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\MaiorParaMenor\obj\Debug\net8.0\ref\MaiorParaMenor.dll

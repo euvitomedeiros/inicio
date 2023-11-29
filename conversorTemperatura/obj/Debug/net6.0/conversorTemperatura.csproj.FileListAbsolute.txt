@@ -1,0 +1,14 @@
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorTemperatura\bin\Debug\net6.0\conversorTemperatura.exe
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorTemperatura\bin\Debug\net6.0\conversorTemperatura.deps.json
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorTemperatura\bin\Debug\net6.0\conversorTemperatura.runtimeconfig.json
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorTemperatura\bin\Debug\net6.0\conversorTemperatura.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorTemperatura\bin\Debug\net6.0\conversorTemperatura.pdb
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorTemperatura\obj\Debug\net6.0\conversorTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorTemperatura\obj\Debug\net6.0\conversorTemperatura.AssemblyInfoInputs.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorTemperatura\obj\Debug\net6.0\conversorTemperatura.AssemblyInfo.cs
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorTemperatura\obj\Debug\net6.0\conversorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorTemperatura\obj\Debug\net6.0\conversorTemperatura.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorTemperatura\obj\Debug\net6.0\refint\conversorTemperatura.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorTemperatura\obj\Debug\net6.0\conversorTemperatura.pdb
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorTemperatura\obj\Debug\net6.0\conversorTemperatura.genruntimeconfig.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorTemperatura\obj\Debug\net6.0\ref\conversorTemperatura.dll

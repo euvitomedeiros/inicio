@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "validaCodigo/1.0.0": {
+        "runtime": {
+          "validaCodigo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "validaCodigo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

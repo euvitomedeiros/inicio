@@ -1,0 +1,14 @@
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\OrdemCrescente\bin\Debug\net6.0\OrdemCrescente.exe
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\OrdemCrescente\bin\Debug\net6.0\OrdemCrescente.deps.json
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\OrdemCrescente\bin\Debug\net6.0\OrdemCrescente.runtimeconfig.json
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\OrdemCrescente\bin\Debug\net6.0\OrdemCrescente.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\OrdemCrescente\bin\Debug\net6.0\OrdemCrescente.pdb
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\OrdemCrescente\obj\Debug\net6.0\OrdemCrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\OrdemCrescente\obj\Debug\net6.0\OrdemCrescente.AssemblyInfoInputs.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\OrdemCrescente\obj\Debug\net6.0\OrdemCrescente.AssemblyInfo.cs
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\OrdemCrescente\obj\Debug\net6.0\OrdemCrescente.csproj.CoreCompileInputs.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\OrdemCrescente\obj\Debug\net6.0\OrdemCrescente.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\OrdemCrescente\obj\Debug\net6.0\refint\OrdemCrescente.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\OrdemCrescente\obj\Debug\net6.0\OrdemCrescente.pdb
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\OrdemCrescente\obj\Debug\net6.0\OrdemCrescente.genruntimeconfig.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\OrdemCrescente\obj\Debug\net6.0\ref\OrdemCrescente.dll

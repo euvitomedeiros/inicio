@@ -1,0 +1,14 @@
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\InverteValores\bin\Debug\net6.0\InverteValores.exe
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\InverteValores\bin\Debug\net6.0\InverteValores.deps.json
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\InverteValores\bin\Debug\net6.0\InverteValores.runtimeconfig.json
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\InverteValores\bin\Debug\net6.0\InverteValores.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\InverteValores\bin\Debug\net6.0\InverteValores.pdb
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\InverteValores\obj\Debug\net6.0\InverteValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\InverteValores\obj\Debug\net6.0\InverteValores.AssemblyInfoInputs.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\InverteValores\obj\Debug\net6.0\InverteValores.AssemblyInfo.cs
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\InverteValores\obj\Debug\net6.0\InverteValores.csproj.CoreCompileInputs.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\InverteValores\obj\Debug\net6.0\InverteValores.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\InverteValores\obj\Debug\net6.0\refint\InverteValores.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\InverteValores\obj\Debug\net6.0\InverteValores.pdb
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\InverteValores\obj\Debug\net6.0\InverteValores.genruntimeconfig.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\InverteValores\obj\Debug\net6.0\ref\InverteValores.dll

@@ -1,0 +1,14 @@
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorGrausCelsius\bin\Debug\net6.0\conversorGrausCelsius.exe
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorGrausCelsius\bin\Debug\net6.0\conversorGrausCelsius.deps.json
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorGrausCelsius\bin\Debug\net6.0\conversorGrausCelsius.runtimeconfig.json
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorGrausCelsius\bin\Debug\net6.0\conversorGrausCelsius.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorGrausCelsius\bin\Debug\net6.0\conversorGrausCelsius.pdb
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorGrausCelsius\obj\Debug\net6.0\conversorGrausCelsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorGrausCelsius\obj\Debug\net6.0\conversorGrausCelsius.AssemblyInfoInputs.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorGrausCelsius\obj\Debug\net6.0\conversorGrausCelsius.AssemblyInfo.cs
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorGrausCelsius\obj\Debug\net6.0\conversorGrausCelsius.csproj.CoreCompileInputs.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorGrausCelsius\obj\Debug\net6.0\conversorGrausCelsius.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorGrausCelsius\obj\Debug\net6.0\refint\conversorGrausCelsius.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorGrausCelsius\obj\Debug\net6.0\conversorGrausCelsius.pdb
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorGrausCelsius\obj\Debug\net6.0\conversorGrausCelsius.genruntimeconfig.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\conversorGrausCelsius\obj\Debug\net6.0\ref\conversorGrausCelsius.dll

@@ -1,0 +1,14 @@
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\CalculoPesoIdeal\bin\Debug\net8.0\CalculoPesoIdeal.exe
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\CalculoPesoIdeal\bin\Debug\net8.0\CalculoPesoIdeal.deps.json
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\CalculoPesoIdeal\bin\Debug\net8.0\CalculoPesoIdeal.runtimeconfig.json
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\CalculoPesoIdeal\bin\Debug\net8.0\CalculoPesoIdeal.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\CalculoPesoIdeal\bin\Debug\net8.0\CalculoPesoIdeal.pdb
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\CalculoPesoIdeal\obj\Debug\net8.0\CalculoPesoIdeal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\CalculoPesoIdeal\obj\Debug\net8.0\CalculoPesoIdeal.AssemblyInfoInputs.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\CalculoPesoIdeal\obj\Debug\net8.0\CalculoPesoIdeal.AssemblyInfo.cs
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\CalculoPesoIdeal\obj\Debug\net8.0\CalculoPesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\CalculoPesoIdeal\obj\Debug\net8.0\CalculoPesoIdeal.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\CalculoPesoIdeal\obj\Debug\net8.0\refint\CalculoPesoIdeal.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\CalculoPesoIdeal\obj\Debug\net8.0\CalculoPesoIdeal.pdb
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\CalculoPesoIdeal\obj\Debug\net8.0\CalculoPesoIdeal.genruntimeconfig.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\CalculoPesoIdeal\obj\Debug\net8.0\ref\CalculoPesoIdeal.dll

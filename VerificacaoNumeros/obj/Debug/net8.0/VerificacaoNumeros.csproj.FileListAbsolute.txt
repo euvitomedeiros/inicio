@@ -1,0 +1,14 @@
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\VerificacaoNumeros\bin\Debug\net8.0\VerificacaoNumeros.exe
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\VerificacaoNumeros\bin\Debug\net8.0\VerificacaoNumeros.deps.json
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\VerificacaoNumeros\bin\Debug\net8.0\VerificacaoNumeros.runtimeconfig.json
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\VerificacaoNumeros\bin\Debug\net8.0\VerificacaoNumeros.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\VerificacaoNumeros\bin\Debug\net8.0\VerificacaoNumeros.pdb
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\VerificacaoNumeros\obj\Debug\net8.0\VerificacaoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\VerificacaoNumeros\obj\Debug\net8.0\VerificacaoNumeros.AssemblyInfoInputs.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\VerificacaoNumeros\obj\Debug\net8.0\VerificacaoNumeros.AssemblyInfo.cs
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\VerificacaoNumeros\obj\Debug\net8.0\VerificacaoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\VerificacaoNumeros\obj\Debug\net8.0\VerificacaoNumeros.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\VerificacaoNumeros\obj\Debug\net8.0\refint\VerificacaoNumeros.dll
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\VerificacaoNumeros\obj\Debug\net8.0\VerificacaoNumeros.pdb
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\VerificacaoNumeros\obj\Debug\net8.0\VerificacaoNumeros.genruntimeconfig.cache
+C:\Users\VitorFreitas\OneDrive - Supria Tecnologia e Solucoes\Documentos\Visual Studio 2022\Projetos C#\Lógica de Programação\VerificacaoNumeros\obj\Debug\net8.0\ref\VerificacaoNumeros.dll
